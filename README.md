@@ -31,8 +31,8 @@ An AI agent for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) th
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/ujpark1/ai-product-designer.git
-cd ai-product-designer
+git clone https://github.com/ujpark1/AI-Product-Designer-Share.git
+cd AI-Product-Designer-Share
 ```
 
 2. **Start Claude Code**
@@ -49,7 +49,7 @@ If you want Desi's knowledge available inside your own project:
 
 ```bash
 # From your project root
-git clone https://github.com/ujpark1/ai-product-designer.git .desi-agent
+git clone https://github.com/ujpark1/AI-Product-Designer-Share.git .desi-agent
 
 # Copy the knowledge base
 cp -r .desi-agent/knowledge ./knowledge
